@@ -1,5 +1,7 @@
 # Week 2 - Programming on a *real* micro:bit
 
+## Important - Please make sure to read all the instructions! Skipping instructions will cause things to break.
+
 ## Part 1 - Integrated Development Environments
 
 Throughout the rest of this course, we will be developing micro:bit code in an Integrated Development Environment (IDE). This means that we get cool features, such as code highlighting, code suggestions, and autocomplete. This should make it much more easy to understand when something is wrong, and why.
@@ -143,4 +145,15 @@ Try running that code. What does it do? Once you've figured that out, try to wri
 
 Once you've finished that, try to make it so that if you press `B`, while the pixel is on the leftmost edge of the display, it moves up to the rightmost edge of the row above.
 
-Please let me know when you've completed all of this.
+Let me know if you complete this.
+
+### Extension 2 - Accelerometer
+
+Well done completing the first extension activity!
+This is going to be a little less guided - all I'm going to say is that you'll need to look into the accelerometer documentation, which is available here: https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html
+
+The challenge is to write a basic game for the micro:bit. This means that: if the micro:bit is on a flat surface, the display should show one pixel in the center. If it is angled forwards, a pixel on the lower edge, if angled to the left, an angle to the right edge.
+
+If you can think of some other way of displaying this information (which isn't just scrolling it across the screen), that's fine too.
+
+Once again, please let me know if you complete this activity.
