@@ -74,7 +74,7 @@ Now that we've got all the prerequisites installed, we can finish off by install
 5. Now, create a new file in your project folder, by pressing the new file button to the left of the IDE: ![New file](images/NewFile.png)
 6. Name the file anything, but put "`.py`" at the end.
 7. Copy-paste this into the file:
-    ```
+    ```python
     from microbit import *
 
     while True:
@@ -106,7 +106,7 @@ In Python, a variable is defined as follows:
 We are going to store the image being displayed on the screen then change them with the variable.
 
 Here is an example of a variable being used with the display:
-```
+```python
 from microbit import *
 
 myImage = Image.ARROW_W
@@ -124,7 +124,7 @@ Experiment with that a bit to understand how it works.
 
 Now let's look at another important function - `Image.set_pixel(x,y,value)`
 
-```
+```python
 from microbit import *
 
 myImage = Image()
