@@ -8,7 +8,7 @@ Throughout the rest of this course, we will be developing micro:bit code in an I
 
 This is the IDE we will be using - Microsoft Visual Studio Code. It provides a number of features that we will use, that should make your lives easier. As we go through the course, we will talk about other aspects of development - such as GIT, but for now all you need to know is that Visual Studio Code is basically a text editor with extra features.
 
-## Part 2 - installing everything
+## Part 2 - Installing everything
 
 ### Visual Studio Code
 
@@ -91,7 +91,7 @@ Now that we've got all the prerequisites installed, we can finish off by install
     
     Otherwise, please ask for help.
 
-## Part 4 [Extension]
+## Part 4 - [Extension]
 
 ### Extension 1 - Moving pixels
 
