@@ -30,7 +30,13 @@ Install the program as you would any other program, but on Windows, make absolut
 
 Once you have installed, open Command Prompt if you're on Windows, or Terminal if you're on Mac, or Bash if you're on Linux, and type the following:
 
+On Windows, type:
+
 `pip --version`
+
+If you're on MacOS, you will need to use:
+
+`pip3 --version`
 
 You should see something like the following show up in response:
 
@@ -48,7 +54,7 @@ Please ask for help if this happens.
 
 So, your Python and Pip are both working, now we're in the home stretch. We need to install the application that writes your code to your microbit.
 
-Open a terminal/command prompt/bash window, and type `pip install uflash`. This should complete with no errors.
+Open a terminal/command prompt/bash window, and type `pip install uflash`or `pip3 install uflash`on Mac. This should complete with no errors.
 
 Now, try typing `uflash x`. You should get an error back, saying: `Error flashing x to microbit: Python files must end in ".py".`. This means that everything is working perfectly.
 
