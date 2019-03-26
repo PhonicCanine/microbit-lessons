@@ -4,13 +4,13 @@ This week, we're going to get a game working!
 
 ## Let's play the game first
 
-First, let's see what the game even is - download the hex file, and let's see: [hex file](Completed/tiltball.hex)
+First, let's see what the game even is - download the hex file, and let's see: [hex file](Completed/tiltball.hex?raw=true)
 
 To run that on your Microbit, just copy it onto the microbit.
 
 ## Now, let's program it
 
-We have a copy of the game from just before it was finished - [tiltball.py](Python%20Files/tiltball.py). Let's download that and have a look at it.
+We have a copy of the game from just before it was finished - [tiltball.py](Python%20Files/tiltball.py?raw=true). Let's download that and have a look at it.
 
 ```python
 from microbit import *
