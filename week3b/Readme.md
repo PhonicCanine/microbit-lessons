@@ -301,7 +301,7 @@ while True:
     if accelerometer.current_gesture() == "shake":
         display.clear()
         '''get a random number, and display a piece of text from answersArray'''
-        
+
 
     sleep(100)
 ```
@@ -314,7 +314,7 @@ Copy this code into a python file, and complete what the comment says to do.
 In Python, we can use:
 
 ```py
-random.randInt(minimum,maximum)
+random.randint(minimum,maximum)
 ```
 
 to generate a random number, where both minimum and maximum are inclusive (the number can be minimum or maximum or anything in between).
