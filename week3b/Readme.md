@@ -331,4 +331,4 @@ lastBook = harryPotterBooks[numberOfBooks - 1] # "Harry Potter and the Deathly H
 Remember, for lastBook, we use `numberOfBooks - 1` because the computer counts from `0`.
 
 ## If you finish
-Please talk to me if you finish
+Please talk to us if you finish
