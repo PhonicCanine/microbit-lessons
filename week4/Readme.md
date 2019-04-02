@@ -1,4 +1,4 @@
-# Week 3 - Programming for the Microbit
+# Week 4 - Programming for the Microbit
 
 This week, we'll work on a Magic 8-ball for the Microbit.
 
