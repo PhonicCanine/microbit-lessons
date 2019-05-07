@@ -162,3 +162,8 @@ d. `c` = 5
 
 e. `c` = 6
 
+## Activity
+
+To polish it all off, we're going to do the tic-tac-toe activity from last term:
+
+[available here](../week4b/readme.md?Tic%20Tac%20Toe)
