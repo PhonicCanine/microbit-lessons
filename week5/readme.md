@@ -166,4 +166,4 @@ e. `c` = 6
 
 To polish it all off, we're going to do the tic-tac-toe activity from last term:
 
-[available here](../week4b/readme.md?Tic%20Tac%20Toe)
+[Available here](https://github.com/PhonicCanine/microbit-lessons/tree/master/week4b)
