@@ -22,11 +22,27 @@ Above is an example hashing algorithm. It's not super important how it works - t
 
 This is important because there are more than `4096` possible inputs.
 
+#### Some simple examples
+
+Using our hashing algorithm above:
+
+`Hello World` hashes to `660`
+
+`Hello, World!` hashes to `c18`
+
+`Hello Qorld` hashes to `460`
+
+`Hello, World` hashes to `498`
+
+`hELLO, wORLD` hashes to `798`
+
+It's worth emphasising - this hashing algorithm is, actually, really terrible, so you're incredibly unlikely to see something quite this horrid in real life.
+
 #### Pigeon Hole Principle
 
 The pigeon hole principle is basically this:
 
-Imagine you have 3 pigeon holes, and 5 pigeons. Assuming every pigeon is inside a pigeon hole, there must be at least one hole with more than 1 pigeon.
+Imagine you have 3 pigeon holes, and 4 pigeons. Assuming every pigeon is inside a pigeon hole, there must be at least one hole with more than 1 pigeon.
 
 This is relevant when we bring it back to our hashes, because we know that there are only `4096` possible hashes. Yet, there are far more than `4096` possible things we could hash. For example, there's `10000` 4 digit passcodes (0000-9999).
 
