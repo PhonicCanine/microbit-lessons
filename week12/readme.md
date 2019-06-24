@@ -165,6 +165,14 @@ Our hackerman has also got the text that's currently in users.txt:
 admin:9fc
 ```
 
+## Getting started:
+
+Download [this](Login.pyc) file by right clicking, and pressing "Save File As". It should be called "Login.pyc". To run it, try double clicking it. If this does not work:
+
+If you are on Windows, find the file in File Explorer, and click in the top bar of file explorer with all of the directories. Simply type "`cmd`" into this field, then a command prompt window should open. Here, type "`python Login.pyc`". This should run the application.
+
+If you are on Mac, open a terminal window, and type "`Python3`" (followed by a space) then, drag the file into your terminal window, and press enter to run it.
+
 ## Exploits for this code
 
 ### Exploit 1: Getting the actual password (easy)

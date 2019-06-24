@@ -1,5 +1,8 @@
 successful = False
 
+fc = """admin:9fc
+"""
+
 
 start = """
 import io
@@ -18,9 +21,9 @@ def getHash(v):
 
     return str(hex(s)).replace("0x","")
 
-dire = os.getcwd()
-f = open(dire + "\\\\users.txt")
-fc = f.read()
+#dire = os.getcwd()
+#f = open(dire + "\\\\users.txt")
+#fc = f.read()
 
 users = fc.splitlines()
 
@@ -53,4 +56,7 @@ exec(start + "\"" + user + "\"" + middle + "\"" + password + "\"" + end)
 if successful:
     print("Good job, you're in")
 else:
-    print("Sorry, you're not in yet.")
+    print("Sorry" + user + ", your login details were invalid.")
+
+
+input("press enter to quit")
