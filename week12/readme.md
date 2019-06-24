@@ -58,6 +58,19 @@ myString = "legitimate \"hacking\""
 
 and when we print that, we will indeed get what we expect - `legitimate "hacking"`.
 
+Another example in Python is with `\n`, which will become a newline when used in a string:
+
+```python
+var = "Hello,\nWorld!"
+```
+
+will become:
+
+```
+Hello,
+World!
+```
+
 #### How is this useful?
 
 Escaping from a string can do great things for us. Imagine we have code like this:
@@ -129,3 +142,52 @@ if loggedIn:
 else:
     #access denied
 ```
+
+Our hackerman has also got the text that's currently in users.txt:
+
+```
+admin:9fc
+```
+
+## Exploits for this code
+
+### Exploit 1: Getting the actual password (easy)
+
+The first, and most obvious exploit is breaking the hash used for the `admin` account.
+
+We can see that the current password hash is: `9fc`, so in order to break in, we only need to write a program that tries hashing different codes until it gets to one that results in `9fc`.
+
+One way to go about this might be a `while` loop, that will loop while a working password hasn't been found, and increase an integer for use as a password, but there are other ways of doing this.
+
+An example of some code that's pretty much done is below:
+
+```python
+def getCollision(v):
+    collision = -1
+    n = 0
+    while collision == -1:
+        n += 1
+        if (getHash(n) == v):
+            collision = n
+    return collision
+```
+
+Here, `getCollision` is a function that takes a desired hash - for example `9fc`, and tries to find a password (a number) that will produce that hash.
+
+### Exploit 2: Setting yourself to be logged in (medium)
+
+As the code shows, there is a variable - `loggedIn` that determines whether the user is successfully logged in. We can find a way to write our username so that we can change the value of this variable.
+
+Experiment with usernames such as `\n` (newline), and see what errors you get. You should be able to, almost without modification, use the exploit described in the section on [string escaping above](#escape-sequences).
+
+### Exploit 3: Cheating the login checker (easy)
+
+The vulnerability here is in this little section of code:
+
+```python
+(user + ":" + hashed).startswith(users[i])
+```
+
+You should be able to figure out how to break this, but if not the hint is this:
+
+How is `(user + ":" + hashed).startswith(users[i])` different to `(user + ":" + hashed) == users[i]`? And how can we use that to our advantage?

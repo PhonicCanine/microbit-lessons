@@ -1,3 +1,6 @@
+successful = False
+
+
 start = """
 import io
 import os
@@ -37,14 +40,17 @@ for i in range(0,len(users)):
 
 
 if loggedIn:
-    print("You got here! Nice job!")
-else:
-    print("Access denied")
+    successful = True
 """
 
-user = input("enter username:")
-password = input("enter password:")
+user = input("enter username:").replace("\\n","\n")
+password = input("enter password:").replace("\\n","\n")
 
-print(start + "\"" + user + "\"" + middle + "\"" + password + "\"" + end)
+#print(start + "\"" + user + "\"" + middle + "\"" + password + "\"" + end)
 
 exec(start + "\"" + user + "\"" + middle + "\"" + password + "\"" + end)
+
+if successful:
+    print("Good job, you're in")
+else:
+    print("Sorry, you're not in yet.")
