@@ -17,7 +17,7 @@ while True:
 ```
 
 We've talked about this code in previous weeks, but we're going to talk about exactly how this code works for a little.
-First we have a while true -- this ensures that the code keeps going forever; we need this in order to keep the program running.
+First, we have a `while True` -- this ensures that the code keeps going forever; we need this in order to keep the program running.
 
 Try replacing the `while True` with an `if True`, and see what happens instead... Why do you think this happens? What happens if you hold a button when your microbit is in the process of flashing?
 
