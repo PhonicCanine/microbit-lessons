@@ -101,7 +101,7 @@ Now, let's try making that counter we talked about before -- to recap:
 
 The program should count the number of times that a user presses the `a` button, and displays that value when the user presses the `b` button.
 
-As a basic scafolding, here's some code:
+As a basic scaffolding, here's some code:
 
 ```py
 from microbit import *
