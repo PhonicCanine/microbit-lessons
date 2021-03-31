@@ -128,7 +128,7 @@ answersArray = ["Most likely","As I see it, yes", "Very doubtful"] #You can add 
 answer = 0
 
 while True:
-    if accelerometer.current_gesture() == "shake":
+    if accelerometer.was_gesture("shake"):
         display.clear()
         display.scroll(answersArray[answer])
 
@@ -159,7 +159,7 @@ answersArray = ["Most likely","As I see it, yes", "Very doubtful"] #You can add 
 answer = 0
 
 while True:
-    if accelerometer.current_gesture() == "shake":
+    if accelerometer.was_gesture("shake"):
         display.clear()
         display.scroll(answersArray[answer])
         answer = answer + 1
