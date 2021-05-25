@@ -1,0 +1,14 @@
+/Users/josephfergusson/Projects/CookieThur/CookieThur/bin/Debug/netstandard2.0/CookieThur.deps.json
+/Users/josephfergusson/Projects/CookieThur/CookieThur/bin/Debug/netstandard2.0/CookieThur.dll
+/Users/josephfergusson/Projects/CookieThur/CookieThur/bin/Debug/netstandard2.0/ref/CookieThur.dll
+/Users/josephfergusson/Projects/CookieThur/CookieThur/bin/Debug/netstandard2.0/CookieThur.pdb
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/CookieThur.csprojAssemblyReference.cache
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/CookieThur.AssemblyInfoInputs.cache
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/CookieThur.AssemblyInfo.cs
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/CookieThur.csproj.CoreCompileInputs.cache
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/CookieThur.dll
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/ref/CookieThur.dll
+/Users/josephfergusson/Projects/CookieThur/CookieThur/obj/Debug/netstandard2.0/CookieThur.pdb
