@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLpMqYaU4k+D36LrYe9Sp/syRZQb6PcNeZfbbd1D5aZWrC/2jTEWj48DL/DX+ZWql8mj5NWo03rz8vK9j4MLJA==",
+  "dgSpecHash": "kLzQy+Vy5Tb3VsRK+52U+RXz4fprgl4KRsKQ5tYKwc/y6VmCyczHwdT3Qgrl5vw/AiO1IKHBJ4QeUf///G43ew==",
   "success": true,
-  "projectFilePath": "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj",
+  "projectFilePath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
   "expectedPackageFiles": [
     "/Users/sam/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/sam/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

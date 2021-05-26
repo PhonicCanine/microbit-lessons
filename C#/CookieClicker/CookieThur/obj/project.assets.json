@@ -538,11 +538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj",
+      "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
       "projectName": "CookieThur",
-      "projectPath": "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj",
+      "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
       "packagesPath": "/Users/sam/.nuget/packages/",
-      "outputPath": "/Users/sam/Downloads/CookieThur/CookieThur/obj/",
+      "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sam/.config/NuGet/NuGet.Config"

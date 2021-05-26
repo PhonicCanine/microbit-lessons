@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ibe0n1zKnaekML/pMxX+WFd1uhY8y/xzfCLWeShAF96xz+qmi8F5LxOIaXLhG0/+6MqzHohhh4kO0fwQXDb9DQ==",
+  "dgSpecHash": "GXqW/Ljh1+KAETuciVSZxuc/J5ipqrrgP22RdA6gcZdX14e08fCu06IICSvAl9XrbKKzcRfRTxYYpjDiIJTAOA==",
   "success": true,
-  "projectFilePath": "/Users/sam/Downloads/CookieThur/CookieThur.Android/CookieThur.Android.csproj",
+  "projectFilePath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
   "expectedPackageFiles": [
     "/Users/sam/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/sam/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

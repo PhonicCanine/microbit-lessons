@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sam/Downloads/CookieThur/CookieThur.Android/CookieThur.Android.csproj": {}
+    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj": {}
   },
   "projects": {
-    "/Users/sam/Downloads/CookieThur/CookieThur.Android/CookieThur.Android.csproj": {
+    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sam/Downloads/CookieThur/CookieThur.Android/CookieThur.Android.csproj",
+        "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
         "projectName": "CookieThur.Android",
-        "projectPath": "/Users/sam/Downloads/CookieThur/CookieThur.Android/CookieThur.Android.csproj",
+        "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
         "packagesPath": "/Users/sam/.nuget/packages/",
-        "outputPath": "/Users/sam/Downloads/CookieThur/CookieThur.Android/obj/",
+        "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj": {
-                "projectPath": "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj"
+              "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
+                "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj": {
+    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj",
+        "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
         "projectName": "CookieThur",
-        "projectPath": "/Users/sam/Downloads/CookieThur/CookieThur/CookieThur.csproj",
+        "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
         "packagesPath": "/Users/sam/.nuget/packages/",
-        "outputPath": "/Users/sam/Downloads/CookieThur/CookieThur/obj/",
+        "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sam/.config/NuGet/NuGet.Config"

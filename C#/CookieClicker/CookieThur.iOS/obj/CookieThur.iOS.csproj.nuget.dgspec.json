@@ -1,9 +1,64 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {}
+    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj": {}
   },
   "projects": {
+    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
+        "projectName": "CookieThur.iOS",
+        "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
+        "packagesPath": "/Users/sam/.nuget/packages/",
+        "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/sam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
+                "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
     "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
       "version": "1.0.0",
       "restore": {
