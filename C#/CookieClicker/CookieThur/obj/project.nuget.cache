@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "kLzQy+Vy5Tb3VsRK+52U+RXz4fprgl4KRsKQ5tYKwc/y6VmCyczHwdT3Qgrl5vw/AiO1IKHBJ4QeUf///G43ew==",
+  "dgSpecHash": "Vtcfgl18tvDRaBXsBbQPMS08j1sYEVgI/CT6B9DYhXCE/LitbI3QxyrmVmhWuEP/Cbc3cq5m97Q2h+XnsGo6pg==",
   "success": true,
-  "projectFilePath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
+  "projectFilePath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj",
   "expectedPackageFiles": [
-    "/Users/sam/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/sam/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/sam/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/sam/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/sam/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/josephfergusson/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/josephfergusson/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/josephfergusson/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }

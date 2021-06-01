@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C49BC662-9548-49DC-A941-E80C7AAC358F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CookieThur.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CookieThur/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CookieThur/MainPage.xaml" Line="11" Column="17" />
+      <File FileName="CookieThur/MainPage.xaml.cs" Line="58" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CookieThur" expanded="True">
+            <Node name="CookieThur" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CookieThur.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.02174C96-5527-48A5-8F82-782EBFE61DC0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

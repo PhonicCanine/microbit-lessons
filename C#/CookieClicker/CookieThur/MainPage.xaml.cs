@@ -10,13 +10,32 @@ namespace CookieThur
 {
     public partial class MainPage : ContentPage
     {
+        int autoClickerLevel = 0;
         public MainPage()
         {
             InitializeComponent();
+            var t = new Task(() =>
+            {
+                while (true)
+                {
+                    DateTime start = DateTime.Now;
+                    while ((DateTime.Now - start).TotalSeconds < 1)
+                    {
+                        //do nothing
+                    }
+                    cookies = cookies + autoClickerLevel * cookiesPerClick;
+                    Device.BeginInvokeOnMainThread(() =>
+                    {
+                        CookieLabel.Text = cookies.ToString();
+                    });
+                }
+            });
+            t.Start();
         }
 
         int cookies = 0;
         int cookiesPerClick = 1;
+
         void CookieClicked(System.Object sender, System.EventArgs e)
         {
             cookies = cookies + cookiesPerClick;
@@ -32,6 +51,11 @@ namespace CookieThur
                 CookieLabel.Text = cookies.ToString();
                 UpgradeButton.Text = "Upgrade (" + (5 * cookiesPerClick).ToString() + ")";
             }
+        }
+
+        void Button_Clicked(System.Object sender, System.EventArgs e)
+        {
+            autoClickerLevel += 1;
         }
     }
 }

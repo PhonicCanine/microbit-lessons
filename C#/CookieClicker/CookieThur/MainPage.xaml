@@ -8,6 +8,7 @@
         <Label Text="0" HorizontalOptions="Center" x:Name="CookieLabel"/>
         <Button Clicked="CookieClicked" Text="Click Me"/>
         <Button Clicked="UpgradeClicked" Text="Upgrade (5)" x:Name="UpgradeButton"/>
+        <Button Clicked="Button_Clicked" Text="Autoclicker"/>
     </StackLayout>
 
 </ContentPage>

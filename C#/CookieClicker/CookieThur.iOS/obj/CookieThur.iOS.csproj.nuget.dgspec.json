@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj": {}
+    "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj": {}
   },
   "projects": {
-    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj": {
+    "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
+        "projectUniqueName": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
         "projectName": "CookieThur.iOS",
-        "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
-        "packagesPath": "/Users/sam/.nuget/packages/",
-        "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/obj/",
+        "projectPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
+        "packagesPath": "/Users/josephfergusson/.nuget/packages/",
+        "outputPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/sam/.config/NuGet/NuGet.Config"
+          "/Users/josephfergusson/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
-                "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj"
+              "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj": {
+                "projectPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj"
               }
             }
           }
@@ -59,17 +59,20 @@
         }
       }
     },
-    "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
+    "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
+        "projectUniqueName": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj",
         "projectName": "CookieThur",
-        "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj",
-        "packagesPath": "/Users/sam/.nuget/packages/",
-        "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/obj/",
+        "projectPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj",
+        "packagesPath": "/Users/josephfergusson/.nuget/packages/",
+        "outputPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/sam/.config/NuGet/NuGet.Config"
+          "/Users/josephfergusson/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
