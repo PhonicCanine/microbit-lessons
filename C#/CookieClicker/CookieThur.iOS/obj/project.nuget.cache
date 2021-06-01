@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7TLNy3l+0GNQFx3aewiMUZ79ND/2pRhYPSXXkWxIFzv7/5JSsOPiazZtrusZNC/8XoNxfJ4wUzjoZ9BFKAmd2Q==",
+  "dgSpecHash": "wrpF75CjRHC03Hcp6prw7lNv+PYL/cTuhZaYuKylO6LPFooGAGjKTtHFH5mYpwi4WpeBSISaqKPulhykbRpKcA==",
   "success": true,
-  "projectFilePath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
+  "projectFilePath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.iOS/CookieThur.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/josephfergusson/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/josephfergusson/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/josephfergusson/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/sam/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/sam/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }

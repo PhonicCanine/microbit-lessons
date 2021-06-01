@@ -2142,20 +2142,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/josephfergusson/.nuget/packages/": {}
+    "/Users/sam/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
+      "projectUniqueName": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
       "projectName": "CookieThur.Android",
-      "projectPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
-      "packagesPath": "/Users/josephfergusson/.nuget/packages/",
-      "outputPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur.Android/obj/",
+      "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/CookieThur.Android.csproj",
+      "packagesPath": "/Users/sam/.nuget/packages/",
+      "outputPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/josephfergusson/.config/NuGet/NuGet.Config"
+        "/Users/sam/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
@@ -2166,8 +2166,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj": {
-              "projectPath": "/Users/josephfergusson/Downloads/microbit-lessons-master 2/C#/CookieClicker/CookieThur/CookieThur.csproj"
+            "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj": {
+              "projectPath": "/Users/sam/Documents/GitHub/microbit-lessons/C#/CookieClicker/CookieThur/CookieThur.csproj"
             }
           }
         }

@@ -10,9 +10,7 @@
         <State name="__root__">
           <Node name="CookieThur" expanded="True">
             <Node name="CookieThur" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="MainPage.xaml.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,7 +18,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CookieThur.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.02174C96-5527-48A5-8F82-782EBFE61DC0" />
+  <MonoDevelop.Ide.ItemProperties.CookieThur.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
